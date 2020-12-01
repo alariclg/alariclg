@@ -13,15 +13,15 @@ You can also hire me for a remote job : all over the world 👨‍💻🌐
 
 ⭐⭐⭐ Nuxt
 
-⭐⭐NestJs
+⭐⭐ NestJs
 
-⭐⭐Wordpress
+⭐⭐ Wordpress
 
-⭐⭐React
+⭐⭐ React
 
-⭐⭐Angular
+⭐⭐ Angular
 
-⭐⭐NodeJs
+⭐⭐ NodeJs
 
 ⭐ AngularJs
 

@@ -1,7 +1,7 @@
 # Hi
 I'm Alaric, 
 
-I'm a french fullstack developper, currently working as a Freelance ! 
+I'm a french fullstack developper, working as CTO for Just Coaching Company !
 
 You can also hire me for a remote job : all over the world 👨‍💻🌐
 

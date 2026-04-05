@@ -5,7 +5,9 @@
 > *This README was lovingly crafted by an AI. Because in 2026, the first thing you do to introduce yourself is outsource it. Very human of us.*
 
 [![Website](https://img.shields.io/badge/Portfolio-alariclg.com-black?style=for-the-badge&logo=vercel)](https://alariclg.com)
+
 [![Free My Beer](https://img.shields.io/badge/Free_My_Beer-gluten--free_beer-f5a623?style=for-the-badge&logo=shopify&logoColor=white)](https://free-my-beer.com)
+
 [![Status](https://img.shields.io/badge/Status-Pivoting_to_PM_trust_the_process-6e40c9?style=for-the-badge&logo=notion&logoColor=white)](#)
 
 ---
